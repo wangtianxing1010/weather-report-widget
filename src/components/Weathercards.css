@@ -1,0 +1,21 @@
+.weatherCards{
+    text-align: center;
+    font-size: 20px;
+    min-height: 200px;
+}
+
+.weatherItem{
+    text-align: center;
+    border: 1px solid blueviolet;
+}
+
+.weatherItem.detailed{
+    background: gray;
+    border: 1px solid green;
+    width: 70%;
+}
+
+.reactLogo{
+    height: 5px;
+    width: 5px;
+}
